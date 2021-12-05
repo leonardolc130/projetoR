@@ -4,3 +4,7 @@
 mutate()
 rename()
 filter()
+# Novas linhas de comando
+resume()
+summarise()
+rename()
