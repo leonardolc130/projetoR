@@ -8,3 +8,6 @@ filter()
 resume()
 summarise()
 rename()
+# Nova versão
+# novos comandos
+# alterações específicas
